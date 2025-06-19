@@ -1,4 +1,4 @@
-# Welcome to your OpenArt project
+# Welcome to OpenArt project
 
 ## What technologies are used for this project?
 
